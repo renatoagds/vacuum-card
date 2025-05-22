@@ -9,6 +9,8 @@
     "idle": "Ocioso",
     "stop": "Parado",
     "charging": "Carregando",
+    "charged": "Carregado",
+    "select_room": "Limpando um ambiente",
     "returning home": "Voltando à base",
     "returning": "Voltando",
     "docked": "Na base",
