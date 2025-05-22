@@ -22,11 +22,13 @@
     "gentle": "Delicado",
     "silent": "Silencioso",
     "standard": "Padrão",
+    "low": "Baixo",
     "medium": "Médio",
     "turbo": "Turbo",
     "normal": "Normal",
     "high": "Alto",
-    "strong": "Forte"
+    "strong": "Forte",
+    "off": "Desligado"
   },
   "common": {
     "name": "Vacuum Card",
